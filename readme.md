@@ -18,3 +18,11 @@ In this lab you will continue working with the same Tableau workbook from the la
   - Add filter for the difference values to select only positive values (ie cases where the individual balance is less than the average balance for the group).
 
 - You have plots from the previous lab. Use those plots to create an interactive dashboard for the users
+
+## Deliverables
+
+- `main.txt` file with a link to your Tableau Public workbook.
+
+## Submission
+
+Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
